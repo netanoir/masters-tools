@@ -15,8 +15,8 @@ View online [here](https://netanoir-masters-tools.glitch.me/)
 
 1. Terminal
 2. Git and github desktop app
-3. A text editor (for example, [VS Code](https://code.visualstudio.com/))
-4. Deployer (for example [Glitch](https://glitch.me))
+3. A text editor ([VS Code](https://code.visualstudio.com/))
+4. Deployer ([Glitch](https://glitch.me))
 
 <!-- any installation needs should be defined -->
 ### Installation
@@ -43,7 +43,7 @@ To add annotations to this essay, you can follow the steps provided below:
 * Terminal
 * [VS Code](https://code.visualstudio.com/)
 * [Github](https://github.com) 
-* [Glitch](https://glitch.me))
+* [Glitch](https://glitch.me)
 
 ## Authors
 
