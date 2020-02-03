@@ -13,7 +13,6 @@ View online [here](https://netanoir-masters-tools.glitch.me/)
 <!-- Any knowledge or tools you will need before hand -->
 ### Prerequisites
 
-To make a good readme the following prerequisites are necessary:
 1. Terminal
 2. Git and github desktop app
 3. A text editor (for example, [VS Code](https://code.visualstudio.com/))
